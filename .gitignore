@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Datasets (large, license unconfirmed)
+data/
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
